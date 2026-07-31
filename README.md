@@ -104,7 +104,7 @@ The analysis highlights several areas that can help reduce product returns:
 
 ## 📷 Dashboard Preview
 
-![Product Return Analysis Dashboard](Product Return Analysis.png)
+![Product Return Analysis Dashboard](Product_Return_Analysis.png)
 
 ---
 
